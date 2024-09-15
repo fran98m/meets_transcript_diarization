@@ -1,0 +1,8 @@
+2024-09-15 17:36:03,855 - whisper_transcription - INFO - Starting Whisper transcription and diarization script
+2024-09-15 17:36:36,816 - whisper_transcription - INFO - Processing /mnt/c/Users/fran9/Downloads/prueba/Daily 12_09_24.m4a
+2024-09-15 17:36:37,428 - audio_processor - INFO - Successfully converted /mnt/c/Users/fran9/Downloads/prueba/Daily 12_09_24.m4a to temporary WAV file
+2024-09-15 17:40:01,187 - diarizer - INFO - Diarizing audio file: /tmp/tmpeey3vk3m.wav
+2024-09-15 17:40:01,187 - diarizer - INFO - Using device: cuda
+2024-09-15 17:40:10,223 - whisper_transcription - INFO - Removed temporary file: /tmp/tmpeey3vk3m.wav
+2024-09-15 17:40:10,227 - whisper_transcription - INFO - Transcription with diarization saved to /mnt/c/Users/fran9/Downloads/prueba/Daily 12_09_24.txt
+2024-09-15 17:50:12,663 - whisper_transcription - INFO - Exiting script
